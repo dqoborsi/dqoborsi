@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dqoborsi
 - 👀 I’m interested in science, technology, software, art, music, games, and fitness/health
-- 🌱 I’m currently learning JavaScript, TypeScript, Node.js, React, Python, Ruby on Rails, front-end and back-end software development
+- 🌱 I’m currently learning JavaScript, TypeScript, Node.js, React, Python, Ruby on Rails, and full stack software development
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me dqoborsi@gmail.com or 7143483086
 
